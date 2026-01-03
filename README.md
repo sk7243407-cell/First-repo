@@ -1,3 +1,3 @@
 # First-repo
-This is my first repository. br
-Author-(Divya Bharti)
+This is my first repository. 
+Author- (Divya Bharti)
